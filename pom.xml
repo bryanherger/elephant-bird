@@ -9,7 +9,7 @@
 
   <groupId>com.twitter.elephantbird</groupId>
   <artifactId>elephant-bird</artifactId>
-  <version>4.5-SNAPSHOT</version>
+  <version>4.6-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Elephant Bird</name>
@@ -279,7 +279,7 @@
       <dependency>
         <groupId>cascading</groupId>
         <artifactId>cascading-hadoop</artifactId>
-        <version>2.0.0-wip-288</version>
+        <version>2.5.2</version>
         <scope>provided</scope>
       </dependency>
 
